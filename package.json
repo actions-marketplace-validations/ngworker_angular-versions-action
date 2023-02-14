@@ -38,7 +38,7 @@
   "devDependencies": {
     "@commitlint/cli": "15.0.0",
     "@commitlint/config-angular": "^15.0.0",
-    "@commitlint/config-conventional": "^15.0.0",
+    "@commitlint/config-conventional": "^17.4.3",
     "@types/jest": "^27.0.3",
     "@types/lodash-es": "^4.17.5",
     "@types/node": "^12.20.13",
